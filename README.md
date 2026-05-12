@@ -69,14 +69,6 @@ I work at the intersection of **agricultural markets**, **climate resilience**, 
 
 Building data-driven systems and analytical tools that improve agricultural decision-making, strengthen food systems, and enhance climate resilience in Africa.
 
----
-
-## 💡 Interests
-
-`Agricultural Economics` &nbsp; `Market Intelligence` &nbsp; `Climate Adaptation` &nbsp; `Digital Transformation in Agriculture` &nbsp; `Food Security Analytics` &nbsp; `Data-driven Policy Design`
-
----
-
 <div align="center">
 
 ### Let's connect
