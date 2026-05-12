@@ -28,7 +28,7 @@ I work at the intersection of **agricultural markets**, **climate resilience**, 
 
 | Domain | Areas |
 |--------|-------|
-| 🌾 Market Systems | Agricultural Market Systems & Value Chain Analysis |
+| 🌾 Market Systems | Agricultural Market Systems and Value Chain Analysis |
 | 🌡️ Climate Change | Climate Risk and Resilience Modelling |
 | 🏪 Food Systems | Food Systems and Agribusiness Analytics |
 | 📱 Digital Ag | Digital Agriculture Systems and Field Data Platforms |
