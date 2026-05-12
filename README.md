@@ -7,7 +7,7 @@
 📍 Lilongwe, Malawi &nbsp;|&nbsp; 🌍 Africa Agricultural Market and Food Systems &nbsp;|&nbsp; 🤝 Open to Collaboration
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blessings-chisale)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yourprofessionalemail@domain.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:blessings.chisale@yahoo.com)
 ![Status](https://img.shields.io/badge/Status-Available%20for%20Collaboration-1D9E75?style=flat-square)
 
 </div>
