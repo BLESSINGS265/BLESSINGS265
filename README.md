@@ -82,6 +82,6 @@ Building data-driven systems and analytical tools that improve agricultural deci
 ### Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blessings--chisale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blessings-chisale)
-[![Email](https://img.shields.io/badge/Email-yourprofessionalemail%40domain.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blessings.chisale@yahoo.com)
+[![Email](https://img.shields.io/badge/Email-blessings.chisale@yahoo.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blessings.chisale@yahoo.com)
 
 </div>
