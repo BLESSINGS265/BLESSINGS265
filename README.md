@@ -1,62 +1,20 @@
 # Blessings Chisale
 
-## Agricultural Market Systems | Climate Resilience | Food Systems | Data Analytics | Digital Agriculture
+Transforming agricultural markets and food systems using data, climate resilience, and digital innovation.
 
-I work at the intersection of agricultural market systems, climate resilience, food systems, and data-driven decision making.
+## Tools & Technologies
 
-My focus is on designing and analyzing resilient agricultural systems that improve farmer incomes, strengthen food security, and support sustainable agribusiness development.
+Python • R • SQL • EViews • STATA • SPSS • Power BI • Tableau • Excel • Git • GitHub • Jupyter Notebook • VS Code • PostgreSQL • MySQL • ETL Pipelines • Data Warehousing • Data Engineering • Machine Learning • Deep Learning • Predictive Analytics • Time Series Forecasting • Statistical Modeling • Econometrics • Feature Engineering • Data Mining • Big Data Analytics • API Integration • Web Scraping • Cloud Computing • Automation • Workflow Optimization • GIS Analytics • ArcGIS • QGIS • Google Earth Engine • Remote Sensing • Drone Data Collection & Analysis • Precision Agriculture Systems • CommCare • KoboToolbox • ODK • SurveyCTO • DHIS2
 
----
+## Focus Areas
 
-## 🌱 Areas of Expertise
+Agricultural Market Systems • Climate Resilience • Food Systems • Agribusiness • Data Science • Digital Agriculture • Economic Analysis • Monitoring & Evaluation • Market Intelligence • Resilience Analytics • Precision Agriculture
 
-- Agricultural Market Systems
-- Climate Resilience & Climate Smart Agriculture
-- Food Systems Analysis
-- Agribusiness Development
-- Agricultural Data Analytics
-- Digital Agriculture
-- Monitoring & Evaluation (M&E)
-- Python for Data Science
-- Power BI & Data Visualization
-- CommCare Systems Development
+## Current Direction
 
----
+Building data-driven systems and digital solutions for resilient agricultural economies, smarter markets, and sustainable food systems.
 
-## 📊 Current Interests
+## Connect
 
-- Agricultural value chain analytics
-- Climate risk modeling
-- Market price forecasting
-- Digital tools for agriculture
-- Food security analysis
-- Data-driven agricultural policy
-
----
-
-## 🛠 Tools & Technologies
-
-- Python
-- Pandas
-- Power BI
-- CommCare
-- Excel
-- SQL
-- GitHub
-- GIS (Learning)
-
----
-
-## 🚀 Featured Projects
-
-### 🌾 Malawi Market Price Analysis
-Analyzing agricultural market trends and commodity prices using Python and data visualization tools.
-
-### 📱 Digital Agriculture Systems
-Development of digital data collection and monitoring systems for agricultural programs.
-
-### 🌍 Climate Resilience & Food Systems
-Research and analytics focused on improving resilience in agricultural and food systems.
----
-
-> “Using data and systems thinking to strengthen agricultural markets, climate resilience, and food systems.”
+LinkedIn: www.linkedin.com/in/blessings-chisale  
+Email: yourprofessionalemail@domain.com
