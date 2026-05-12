@@ -17,4 +17,4 @@ Building data-driven systems and digital solutions for resilient agricultural ec
 ## Connect
 
 LinkedIn: www.linkedin.com/in/blessings-chisale  
-Email: yourprofessionalemail@domain.com
+Email: blessings.chisale@yahoo.com 
